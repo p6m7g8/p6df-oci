@@ -3,5 +3,4 @@
 - p6df::modules::oci::external::brew()
 - p6df::modules::oci::home::symlink()
 - p6df::modules::oci::init()
-- p6df::modules::oci::version()
 
