@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-oci:
+
+#### p6df-oci/init.zsh:
 
 - p6df::modules::oci::deps()
 - p6df::modules::oci::external::brew()
